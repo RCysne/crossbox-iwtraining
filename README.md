@@ -1,4 +1,4 @@
-# app-front-13
+# Aplicação ReactJs para agendamento de um Box de Crossfit
 
 
 ### Baixando a aplicação
